@@ -33,7 +33,10 @@ pnpm install
 ### 启动应用
 
 ```shell
-pnpm tauri dev
+pnpm start
+# 注意：
+# 1. 初次运行将会等待较长时间
+# 2. 开发时记得退出自己本地安装的eco-paste，否则会导致启动失败
 ```
 
 ### 打包应用
