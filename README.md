@@ -12,19 +12,19 @@
   <br/>
     
   <div>
-    <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <a href="https://github.com/ludwig-chan/CueFlow/releases">
       <img
         alt="Windows"
         src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB0PSIxNzI2MzA1OTcxMDA2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE1NDgiIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4Ij48cGF0aCBkPSJNNTI3LjI3NTU1MTYxIDk2Ljk3MTAzMDEzdjM3My45OTIxMDY2N2g0OTQuNTEzNjE5NzVWMTUuMDI2NzU3NTN6TTUyNy4yNzU1NTE2MSA5MjguMzIzNTA4MTVsNDk0LjUxMzYxOTc1IDgwLjUyMDI4MDQ5di00NTUuNjc3NDcxNjFoLTQ5NC41MTM2MTk3NXpNNC42NzA0NTEzNiA0NzAuODMzNjgyOTdINDIyLjY3Njg1OTI1VjExMC41NjM2ODE5N2wtNDE4LjAwNjQwNzg5IDY5LjI1Nzc5NzUzek00LjY3MDQ1MTM2IDg0Ni43Njc1OTcwM0w0MjIuNjc2ODU5MjUgOTE0Ljg2MDMxMDEzVjU1My4xNjYzMTcwM0g0LjY3MDQ1MTM2eiIgcC1pZD0iMTU0OSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg=="
       />
     </a >
-    <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <a href="https://github.com/ludwig-chan/CueFlow/releases">
       <img
         alt="MacOS"
         src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white"
       />
     </a >
-    <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <a href="https://github.com/ludwig-chan/CueFlow/releases">
       <img 
         alt="Linux"
         src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white" 
@@ -33,19 +33,20 @@
   </div>
 
   <div>
+    <!-- 后面做成动态的 -->
     <a href="./LICENSE">
       <img
-        src="https://img.shields.io/github/license/EcoPasteHub/EcoPaste?style=flat-square"
+        src="https://raster.shields.io/badge/license-Apache 2.0-green.svg?style=flat-square"
       />
     </a >
-    <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <a href="https://github.com/ludwig-chan/CueFlow/releases">
       <img
-        src="https://img.shields.io/github/package-json/v/EcoPasteHub/EcoPaste?style=flat-square"
+        src="https://raster.shields.io/badge/version-0.1.0-orange.svg?style=flat-square"
       />
     </a >
-    <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <a href="https://github.com/ludwig-chan/CueFlow/releases">
       <img
-        src="https://img.shields.io/github/downloads/EcoPasteHub/EcoPaste/total?style=flat-square"
+        src="https://raster.shields.io/badge/download-0-blue.svg?style=flat-square"
       />  
     </a >
   </div>
@@ -97,6 +98,6 @@ HomeBrew：[点击查看](https://ecopaste.cn/guide/install#%E4%BD%BF%E7%94%A8-h
 
 ## 问题反馈
 
-1. 🔍 优先查阅[常见问题](https://ecopaste.cn/problem/macos/damage)或浏览已有 [issues](https://github.com/EcoPasteHub/EcoPaste/issues)。
+1. 🔍 浏览已有 [issues](https://github.com/ludwig-chan/CueFlow/issues)。
 
-2. ❓ 如果问题仍未解决，请提交新的 [issue](https://github.com/EcoPasteHub/EcoPaste/issues/new/choose)，并附上详细描述，方便我们快速定位和解决。
+2. ❓ 如果问题仍未解决，请提交新的 [issue](https://github.com/ludwig-chan/CueFlow/issues/new/choose)，并附上详细描述，方便开发者快速定位和解决。
